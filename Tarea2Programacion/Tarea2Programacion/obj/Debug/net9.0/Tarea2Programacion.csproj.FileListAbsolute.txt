@@ -1,0 +1,15 @@
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\Tarea2Programacion\Tarea2Programacion\bin\Debug\net9.0\Tarea2Programacion.exe
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\Tarea2Programacion\Tarea2Programacion\bin\Debug\net9.0\Tarea2Programacion.deps.json
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\Tarea2Programacion\Tarea2Programacion\bin\Debug\net9.0\Tarea2Programacion.runtimeconfig.json
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\Tarea2Programacion\Tarea2Programacion\bin\Debug\net9.0\Tarea2Programacion.dll
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\Tarea2Programacion\Tarea2Programacion\bin\Debug\net9.0\Tarea2Programacion.pdb
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\Tarea2Programacion\Tarea2Programacion\obj\Debug\net9.0\Tarea2Programacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\Tarea2Programacion\Tarea2Programacion\obj\Debug\net9.0\Tarea2Programacion.AssemblyInfoInputs.cache
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\Tarea2Programacion\Tarea2Programacion\obj\Debug\net9.0\Tarea2Programacion.AssemblyInfo.cs
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\Tarea2Programacion\Tarea2Programacion\obj\Debug\net9.0\Tarea2Programacion.csproj.CoreCompileInputs.cache
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\Tarea2Programacion\Tarea2Programacion\obj\Debug\net9.0\Tarea2Programacion.sourcelink.json
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\Tarea2Programacion\Tarea2Programacion\obj\Debug\net9.0\Tarea2Programacion.dll
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\Tarea2Programacion\Tarea2Programacion\obj\Debug\net9.0\refint\Tarea2Programacion.dll
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\Tarea2Programacion\Tarea2Programacion\obj\Debug\net9.0\Tarea2Programacion.pdb
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\Tarea2Programacion\Tarea2Programacion\obj\Debug\net9.0\Tarea2Programacion.genruntimeconfig.cache
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\Tarea2Programacion\Tarea2Programacion\obj\Debug\net9.0\ref\Tarea2Programacion.dll
