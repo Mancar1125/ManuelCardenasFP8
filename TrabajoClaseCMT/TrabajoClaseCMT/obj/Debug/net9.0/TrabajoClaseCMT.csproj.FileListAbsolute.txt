@@ -1,0 +1,15 @@
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\TrabajoClaseCMT\TrabajoClaseCMT\bin\Debug\net9.0\TrabajoClaseCMT.exe
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\TrabajoClaseCMT\TrabajoClaseCMT\bin\Debug\net9.0\TrabajoClaseCMT.deps.json
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\TrabajoClaseCMT\TrabajoClaseCMT\bin\Debug\net9.0\TrabajoClaseCMT.runtimeconfig.json
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\TrabajoClaseCMT\TrabajoClaseCMT\bin\Debug\net9.0\TrabajoClaseCMT.dll
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\TrabajoClaseCMT\TrabajoClaseCMT\bin\Debug\net9.0\TrabajoClaseCMT.pdb
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\TrabajoClaseCMT\TrabajoClaseCMT\obj\Debug\net9.0\TrabajoClaseCMT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\TrabajoClaseCMT\TrabajoClaseCMT\obj\Debug\net9.0\TrabajoClaseCMT.AssemblyInfoInputs.cache
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\TrabajoClaseCMT\TrabajoClaseCMT\obj\Debug\net9.0\TrabajoClaseCMT.AssemblyInfo.cs
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\TrabajoClaseCMT\TrabajoClaseCMT\obj\Debug\net9.0\TrabajoClaseCMT.csproj.CoreCompileInputs.cache
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\TrabajoClaseCMT\TrabajoClaseCMT\obj\Debug\net9.0\TrabajoClaseCMT.sourcelink.json
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\TrabajoClaseCMT\TrabajoClaseCMT\obj\Debug\net9.0\TrabajoClaseCMT.dll
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\TrabajoClaseCMT\TrabajoClaseCMT\obj\Debug\net9.0\refint\TrabajoClaseCMT.dll
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\TrabajoClaseCMT\TrabajoClaseCMT\obj\Debug\net9.0\TrabajoClaseCMT.pdb
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\TrabajoClaseCMT\TrabajoClaseCMT\obj\Debug\net9.0\TrabajoClaseCMT.genruntimeconfig.cache
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\TrabajoClaseCMT\TrabajoClaseCMT\obj\Debug\net9.0\ref\TrabajoClaseCMT.dll
