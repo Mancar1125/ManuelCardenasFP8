@@ -1,0 +1,15 @@
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\Parcial1.Condicionales\Parcial1.Condicionales\obj\Debug\net9.0\Parcial1.Condicionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\Parcial1.Condicionales\Parcial1.Condicionales\obj\Debug\net9.0\Parcial1.Condicionales.AssemblyInfoInputs.cache
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\Parcial1.Condicionales\Parcial1.Condicionales\obj\Debug\net9.0\Parcial1.Condicionales.AssemblyInfo.cs
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\Parcial1.Condicionales\Parcial1.Condicionales\obj\Debug\net9.0\Parcial1.Condicionales.csproj.CoreCompileInputs.cache
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\Parcial1.Condicionales\Parcial1.Condicionales\obj\Debug\net9.0\Parcial1.Condicionales.sourcelink.json
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\Parcial1.Condicionales\Parcial1.Condicionales\bin\Debug\net9.0\Parcial1.Condicionales.exe
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\Parcial1.Condicionales\Parcial1.Condicionales\bin\Debug\net9.0\Parcial1.Condicionales.deps.json
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\Parcial1.Condicionales\Parcial1.Condicionales\bin\Debug\net9.0\Parcial1.Condicionales.runtimeconfig.json
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\Parcial1.Condicionales\Parcial1.Condicionales\bin\Debug\net9.0\Parcial1.Condicionales.dll
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\Parcial1.Condicionales\Parcial1.Condicionales\bin\Debug\net9.0\Parcial1.Condicionales.pdb
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\Parcial1.Condicionales\Parcial1.Condicionales\obj\Debug\net9.0\Parcial1.Condicionales.dll
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\Parcial1.Condicionales\Parcial1.Condicionales\obj\Debug\net9.0\refint\Parcial1.Condicionales.dll
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\Parcial1.Condicionales\Parcial1.Condicionales\obj\Debug\net9.0\Parcial1.Condicionales.pdb
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\Parcial1.Condicionales\Parcial1.Condicionales\obj\Debug\net9.0\Parcial1.Condicionales.genruntimeconfig.cache
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\Parcial1.Condicionales\Parcial1.Condicionales\obj\Debug\net9.0\ref\Parcial1.Condicionales.dll
