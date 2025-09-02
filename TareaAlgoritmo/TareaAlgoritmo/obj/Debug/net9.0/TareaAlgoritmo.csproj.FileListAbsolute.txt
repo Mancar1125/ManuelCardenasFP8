@@ -1,0 +1,15 @@
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\TareaAlgoritmo\TareaAlgoritmo\bin\Debug\net9.0\TareaAlgoritmo.exe
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\TareaAlgoritmo\TareaAlgoritmo\bin\Debug\net9.0\TareaAlgoritmo.deps.json
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\TareaAlgoritmo\TareaAlgoritmo\bin\Debug\net9.0\TareaAlgoritmo.runtimeconfig.json
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\TareaAlgoritmo\TareaAlgoritmo\bin\Debug\net9.0\TareaAlgoritmo.dll
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\TareaAlgoritmo\TareaAlgoritmo\bin\Debug\net9.0\TareaAlgoritmo.pdb
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\TareaAlgoritmo\TareaAlgoritmo\obj\Debug\net9.0\TareaAlgoritmo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\TareaAlgoritmo\TareaAlgoritmo\obj\Debug\net9.0\TareaAlgoritmo.AssemblyInfoInputs.cache
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\TareaAlgoritmo\TareaAlgoritmo\obj\Debug\net9.0\TareaAlgoritmo.AssemblyInfo.cs
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\TareaAlgoritmo\TareaAlgoritmo\obj\Debug\net9.0\TareaAlgoritmo.csproj.CoreCompileInputs.cache
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\TareaAlgoritmo\TareaAlgoritmo\obj\Debug\net9.0\TareaAlgoritmo.sourcelink.json
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\TareaAlgoritmo\TareaAlgoritmo\obj\Debug\net9.0\TareaAlgoritmo.dll
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\TareaAlgoritmo\TareaAlgoritmo\obj\Debug\net9.0\refint\TareaAlgoritmo.dll
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\TareaAlgoritmo\TareaAlgoritmo\obj\Debug\net9.0\TareaAlgoritmo.pdb
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\TareaAlgoritmo\TareaAlgoritmo\obj\Debug\net9.0\TareaAlgoritmo.genruntimeconfig.cache
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\TareaAlgoritmo\TareaAlgoritmo\obj\Debug\net9.0\ref\TareaAlgoritmo.dll

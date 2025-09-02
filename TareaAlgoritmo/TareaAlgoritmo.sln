@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TareaAlgoritmo", "TareaAlgoritmo\TareaAlgoritmo.csproj", "{C4D8C92A-E8D8-4801-89D3-C464700BF336}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4D8C92A-E8D8-4801-89D3-C464700BF336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4D8C92A-E8D8-4801-89D3-C464700BF336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4D8C92A-E8D8-4801-89D3-C464700BF336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4D8C92A-E8D8-4801-89D3-C464700BF336}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91288E69-B651-4A9D-940A-C157B4684860}
+	EndGlobalSection
+EndGlobal
