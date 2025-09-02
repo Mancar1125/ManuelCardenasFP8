@@ -1,0 +1,15 @@
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\2.Operadores\2.Operadores\obj\Debug\net9.0\2.Operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\2.Operadores\2.Operadores\obj\Debug\net9.0\2.Operadores.AssemblyInfoInputs.cache
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\2.Operadores\2.Operadores\obj\Debug\net9.0\2.Operadores.AssemblyInfo.cs
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\2.Operadores\2.Operadores\obj\Debug\net9.0\2.Operadores.csproj.CoreCompileInputs.cache
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\2.Operadores\2.Operadores\obj\Debug\net9.0\2.Operadores.sourcelink.json
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\2.Operadores\2.Operadores\bin\Debug\net9.0\2.Operadores.exe
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\2.Operadores\2.Operadores\bin\Debug\net9.0\2.Operadores.deps.json
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\2.Operadores\2.Operadores\bin\Debug\net9.0\2.Operadores.runtimeconfig.json
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\2.Operadores\2.Operadores\bin\Debug\net9.0\2.Operadores.dll
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\2.Operadores\2.Operadores\bin\Debug\net9.0\2.Operadores.pdb
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\2.Operadores\2.Operadores\obj\Debug\net9.0\2.Operadores.dll
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\2.Operadores\2.Operadores\obj\Debug\net9.0\refint\2.Operadores.dll
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\2.Operadores\2.Operadores\obj\Debug\net9.0\2.Operadores.pdb
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\2.Operadores\2.Operadores\obj\Debug\net9.0\2.Operadores.genruntimeconfig.cache
+C:\Users\manca\Documents\Manuel Cardenas Programacion\ManuelCardenasFP8\2.Operadores\2.Operadores\obj\Debug\net9.0\ref\2.Operadores.dll
