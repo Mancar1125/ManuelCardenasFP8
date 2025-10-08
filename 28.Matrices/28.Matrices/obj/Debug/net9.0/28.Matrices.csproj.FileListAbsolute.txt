@@ -1,0 +1,14 @@
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\28.Matrices\28.Matrices\bin\Debug\net9.0\28.Matrices.exe
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\28.Matrices\28.Matrices\bin\Debug\net9.0\28.Matrices.deps.json
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\28.Matrices\28.Matrices\bin\Debug\net9.0\28.Matrices.runtimeconfig.json
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\28.Matrices\28.Matrices\bin\Debug\net9.0\28.Matrices.dll
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\28.Matrices\28.Matrices\bin\Debug\net9.0\28.Matrices.pdb
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\28.Matrices\28.Matrices\obj\Debug\net9.0\28.Matrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\28.Matrices\28.Matrices\obj\Debug\net9.0\28.Matrices.AssemblyInfoInputs.cache
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\28.Matrices\28.Matrices\obj\Debug\net9.0\28.Matrices.AssemblyInfo.cs
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\28.Matrices\28.Matrices\obj\Debug\net9.0\28.Matrices.csproj.CoreCompileInputs.cache
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\28.Matrices\28.Matrices\obj\Debug\net9.0\28.Matrices.dll
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\28.Matrices\28.Matrices\obj\Debug\net9.0\refint\28.Matrices.dll
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\28.Matrices\28.Matrices\obj\Debug\net9.0\28.Matrices.pdb
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\28.Matrices\28.Matrices\obj\Debug\net9.0\28.Matrices.genruntimeconfig.cache
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\28.Matrices\28.Matrices\obj\Debug\net9.0\ref\28.Matrices.dll
