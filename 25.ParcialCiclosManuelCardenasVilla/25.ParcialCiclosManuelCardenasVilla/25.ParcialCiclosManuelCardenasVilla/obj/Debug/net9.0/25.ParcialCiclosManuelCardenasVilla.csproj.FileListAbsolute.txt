@@ -1,0 +1,14 @@
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\25.ParcialCiclosManuelCardenasVilla\25.ParcialCiclosManuelCardenasVilla\bin\Debug\net9.0\25.ParcialCiclosManuelCardenasVilla.exe
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\25.ParcialCiclosManuelCardenasVilla\25.ParcialCiclosManuelCardenasVilla\bin\Debug\net9.0\25.ParcialCiclosManuelCardenasVilla.deps.json
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\25.ParcialCiclosManuelCardenasVilla\25.ParcialCiclosManuelCardenasVilla\bin\Debug\net9.0\25.ParcialCiclosManuelCardenasVilla.runtimeconfig.json
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\25.ParcialCiclosManuelCardenasVilla\25.ParcialCiclosManuelCardenasVilla\bin\Debug\net9.0\25.ParcialCiclosManuelCardenasVilla.dll
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\25.ParcialCiclosManuelCardenasVilla\25.ParcialCiclosManuelCardenasVilla\bin\Debug\net9.0\25.ParcialCiclosManuelCardenasVilla.pdb
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\25.ParcialCiclosManuelCardenasVilla\25.ParcialCiclosManuelCardenasVilla\obj\Debug\net9.0\25.ParcialCiclosManuelCardenasVilla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\25.ParcialCiclosManuelCardenasVilla\25.ParcialCiclosManuelCardenasVilla\obj\Debug\net9.0\25.ParcialCiclosManuelCardenasVilla.AssemblyInfoInputs.cache
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\25.ParcialCiclosManuelCardenasVilla\25.ParcialCiclosManuelCardenasVilla\obj\Debug\net9.0\25.ParcialCiclosManuelCardenasVilla.AssemblyInfo.cs
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\25.ParcialCiclosManuelCardenasVilla\25.ParcialCiclosManuelCardenasVilla\obj\Debug\net9.0\25.ParcialCiclosManuelCardenasVilla.csproj.CoreCompileInputs.cache
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\25.ParcialCiclosManuelCardenasVilla\25.ParcialCiclosManuelCardenasVilla\obj\Debug\net9.0\25.ParcialCiclosManuelCardenasVilla.dll
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\25.ParcialCiclosManuelCardenasVilla\25.ParcialCiclosManuelCardenasVilla\obj\Debug\net9.0\refint\25.ParcialCiclosManuelCardenasVilla.dll
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\25.ParcialCiclosManuelCardenasVilla\25.ParcialCiclosManuelCardenasVilla\obj\Debug\net9.0\25.ParcialCiclosManuelCardenasVilla.pdb
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\25.ParcialCiclosManuelCardenasVilla\25.ParcialCiclosManuelCardenasVilla\obj\Debug\net9.0\25.ParcialCiclosManuelCardenasVilla.genruntimeconfig.cache
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\25.ParcialCiclosManuelCardenasVilla\25.ParcialCiclosManuelCardenasVilla\obj\Debug\net9.0\ref\25.ParcialCiclosManuelCardenasVilla.dll
