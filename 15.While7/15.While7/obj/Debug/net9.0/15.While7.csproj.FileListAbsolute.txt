@@ -1,0 +1,14 @@
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\15.While7\15.While7\bin\Debug\net9.0\15.While7.exe
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\15.While7\15.While7\bin\Debug\net9.0\15.While7.deps.json
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\15.While7\15.While7\bin\Debug\net9.0\15.While7.runtimeconfig.json
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\15.While7\15.While7\bin\Debug\net9.0\15.While7.dll
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\15.While7\15.While7\bin\Debug\net9.0\15.While7.pdb
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\15.While7\15.While7\obj\Debug\net9.0\15.While7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\15.While7\15.While7\obj\Debug\net9.0\15.While7.AssemblyInfoInputs.cache
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\15.While7\15.While7\obj\Debug\net9.0\15.While7.AssemblyInfo.cs
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\15.While7\15.While7\obj\Debug\net9.0\15.While7.csproj.CoreCompileInputs.cache
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\15.While7\15.While7\obj\Debug\net9.0\15.While7.dll
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\15.While7\15.While7\obj\Debug\net9.0\refint\15.While7.dll
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\15.While7\15.While7\obj\Debug\net9.0\15.While7.pdb
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\15.While7\15.While7\obj\Debug\net9.0\15.While7.genruntimeconfig.cache
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\15.While7\15.While7\obj\Debug\net9.0\ref\15.While7.dll
