@@ -1,0 +1,4 @@
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\18.WhileTarea\18.WhileTarea\obj\Debug\net9.0\18.WhileTarea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\18.WhileTarea\18.WhileTarea\obj\Debug\net9.0\18.WhileTarea.AssemblyInfoInputs.cache
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\18.WhileTarea\18.WhileTarea\obj\Debug\net9.0\18.WhileTarea.AssemblyInfo.cs
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\18.WhileTarea\18.WhileTarea\obj\Debug\net9.0\18.WhileTarea.csproj.CoreCompileInputs.cache

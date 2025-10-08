@@ -1,0 +1,14 @@
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\16.WhileTarea\16.WhileTarea\obj\Debug\net9.0\16.WhileTarea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\16.WhileTarea\16.WhileTarea\obj\Debug\net9.0\16.WhileTarea.AssemblyInfoInputs.cache
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\16.WhileTarea\16.WhileTarea\obj\Debug\net9.0\16.WhileTarea.AssemblyInfo.cs
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\16.WhileTarea\16.WhileTarea\obj\Debug\net9.0\16.WhileTarea.csproj.CoreCompileInputs.cache
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\16.WhileTarea\16.WhileTarea\bin\Debug\net9.0\16.WhileTarea.exe
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\16.WhileTarea\16.WhileTarea\bin\Debug\net9.0\16.WhileTarea.deps.json
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\16.WhileTarea\16.WhileTarea\bin\Debug\net9.0\16.WhileTarea.runtimeconfig.json
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\16.WhileTarea\16.WhileTarea\bin\Debug\net9.0\16.WhileTarea.dll
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\16.WhileTarea\16.WhileTarea\bin\Debug\net9.0\16.WhileTarea.pdb
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\16.WhileTarea\16.WhileTarea\obj\Debug\net9.0\16.WhileTarea.dll
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\16.WhileTarea\16.WhileTarea\obj\Debug\net9.0\refint\16.WhileTarea.dll
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\16.WhileTarea\16.WhileTarea\obj\Debug\net9.0\16.WhileTarea.pdb
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\16.WhileTarea\16.WhileTarea\obj\Debug\net9.0\16.WhileTarea.genruntimeconfig.cache
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\16.WhileTarea\16.WhileTarea\obj\Debug\net9.0\ref\16.WhileTarea.dll
