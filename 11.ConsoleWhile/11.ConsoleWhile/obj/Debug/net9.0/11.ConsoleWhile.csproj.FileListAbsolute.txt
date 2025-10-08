@@ -1,0 +1,14 @@
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\11.ConsoleWhile\11.ConsoleWhile\bin\Debug\net9.0\11.ConsoleWhile.exe
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\11.ConsoleWhile\11.ConsoleWhile\bin\Debug\net9.0\11.ConsoleWhile.deps.json
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\11.ConsoleWhile\11.ConsoleWhile\bin\Debug\net9.0\11.ConsoleWhile.runtimeconfig.json
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\11.ConsoleWhile\11.ConsoleWhile\bin\Debug\net9.0\11.ConsoleWhile.dll
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\11.ConsoleWhile\11.ConsoleWhile\bin\Debug\net9.0\11.ConsoleWhile.pdb
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\11.ConsoleWhile\11.ConsoleWhile\obj\Debug\net9.0\11.ConsoleWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\11.ConsoleWhile\11.ConsoleWhile\obj\Debug\net9.0\11.ConsoleWhile.AssemblyInfoInputs.cache
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\11.ConsoleWhile\11.ConsoleWhile\obj\Debug\net9.0\11.ConsoleWhile.AssemblyInfo.cs
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\11.ConsoleWhile\11.ConsoleWhile\obj\Debug\net9.0\11.ConsoleWhile.csproj.CoreCompileInputs.cache
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\11.ConsoleWhile\11.ConsoleWhile\obj\Debug\net9.0\11.ConsoleWhile.dll
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\11.ConsoleWhile\11.ConsoleWhile\obj\Debug\net9.0\refint\11.ConsoleWhile.dll
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\11.ConsoleWhile\11.ConsoleWhile\obj\Debug\net9.0\11.ConsoleWhile.pdb
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\11.ConsoleWhile\11.ConsoleWhile\obj\Debug\net9.0\11.ConsoleWhile.genruntimeconfig.cache
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\11.ConsoleWhile\11.ConsoleWhile\obj\Debug\net9.0\ref\11.ConsoleWhile.dll
