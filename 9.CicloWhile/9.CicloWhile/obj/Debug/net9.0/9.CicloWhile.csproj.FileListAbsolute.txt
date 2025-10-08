@@ -1,0 +1,14 @@
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\9.CicloWhile\9.CicloWhile\bin\Debug\net9.0\9.CicloWhile.exe
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\9.CicloWhile\9.CicloWhile\bin\Debug\net9.0\9.CicloWhile.deps.json
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\9.CicloWhile\9.CicloWhile\bin\Debug\net9.0\9.CicloWhile.runtimeconfig.json
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\9.CicloWhile\9.CicloWhile\bin\Debug\net9.0\9.CicloWhile.dll
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\9.CicloWhile\9.CicloWhile\bin\Debug\net9.0\9.CicloWhile.pdb
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\9.CicloWhile\9.CicloWhile\obj\Debug\net9.0\9.CicloWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\9.CicloWhile\9.CicloWhile\obj\Debug\net9.0\9.CicloWhile.AssemblyInfoInputs.cache
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\9.CicloWhile\9.CicloWhile\obj\Debug\net9.0\9.CicloWhile.AssemblyInfo.cs
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\9.CicloWhile\9.CicloWhile\obj\Debug\net9.0\9.CicloWhile.csproj.CoreCompileInputs.cache
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\9.CicloWhile\9.CicloWhile\obj\Debug\net9.0\9.CicloWhile.dll
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\9.CicloWhile\9.CicloWhile\obj\Debug\net9.0\refint\9.CicloWhile.dll
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\9.CicloWhile\9.CicloWhile\obj\Debug\net9.0\9.CicloWhile.pdb
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\9.CicloWhile\9.CicloWhile\obj\Debug\net9.0\9.CicloWhile.genruntimeconfig.cache
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\9.CicloWhile\9.CicloWhile\obj\Debug\net9.0\ref\9.CicloWhile.dll
