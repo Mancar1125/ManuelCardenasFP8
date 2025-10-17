@@ -1,0 +1,14 @@
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\Parcial.Modular\Parcial.Modular\obj\Debug\net9.0\Parcial.Modular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\Parcial.Modular\Parcial.Modular\obj\Debug\net9.0\Parcial.Modular.AssemblyInfoInputs.cache
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\Parcial.Modular\Parcial.Modular\obj\Debug\net9.0\Parcial.Modular.AssemblyInfo.cs
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\Parcial.Modular\Parcial.Modular\obj\Debug\net9.0\Parcial.Modular.csproj.CoreCompileInputs.cache
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\Parcial.Modular\Parcial.Modular\bin\Debug\net9.0\Parcial.Modular.exe
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\Parcial.Modular\Parcial.Modular\bin\Debug\net9.0\Parcial.Modular.deps.json
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\Parcial.Modular\Parcial.Modular\bin\Debug\net9.0\Parcial.Modular.runtimeconfig.json
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\Parcial.Modular\Parcial.Modular\bin\Debug\net9.0\Parcial.Modular.dll
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\Parcial.Modular\Parcial.Modular\bin\Debug\net9.0\Parcial.Modular.pdb
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\Parcial.Modular\Parcial.Modular\obj\Debug\net9.0\Parcial.Modular.dll
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\Parcial.Modular\Parcial.Modular\obj\Debug\net9.0\refint\Parcial.Modular.dll
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\Parcial.Modular\Parcial.Modular\obj\Debug\net9.0\Parcial.Modular.pdb
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\Parcial.Modular\Parcial.Modular\obj\Debug\net9.0\Parcial.Modular.genruntimeconfig.cache
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\Parcial.Modular\Parcial.Modular\obj\Debug\net9.0\ref\Parcial.Modular.dll
