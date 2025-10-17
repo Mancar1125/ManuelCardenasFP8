@@ -1,0 +1,14 @@
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\32.Modular\32.Modular\bin\Debug\net9.0\32.Modular.exe
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\32.Modular\32.Modular\bin\Debug\net9.0\32.Modular.deps.json
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\32.Modular\32.Modular\bin\Debug\net9.0\32.Modular.runtimeconfig.json
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\32.Modular\32.Modular\bin\Debug\net9.0\32.Modular.dll
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\32.Modular\32.Modular\bin\Debug\net9.0\32.Modular.pdb
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\32.Modular\32.Modular\obj\Debug\net9.0\32.Modular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\32.Modular\32.Modular\obj\Debug\net9.0\32.Modular.AssemblyInfoInputs.cache
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\32.Modular\32.Modular\obj\Debug\net9.0\32.Modular.AssemblyInfo.cs
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\32.Modular\32.Modular\obj\Debug\net9.0\32.Modular.csproj.CoreCompileInputs.cache
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\32.Modular\32.Modular\obj\Debug\net9.0\32.Modular.dll
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\32.Modular\32.Modular\obj\Debug\net9.0\refint\32.Modular.dll
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\32.Modular\32.Modular\obj\Debug\net9.0\32.Modular.pdb
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\32.Modular\32.Modular\obj\Debug\net9.0\32.Modular.genruntimeconfig.cache
+C:\Users\manca\OneDrive\Documentos\EnsayoVisual\32.Modular\32.Modular\obj\Debug\net9.0\ref\32.Modular.dll
